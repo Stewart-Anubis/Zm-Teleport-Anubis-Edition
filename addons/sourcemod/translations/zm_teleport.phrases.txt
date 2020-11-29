@@ -1,0 +1,99 @@
+"Phrases"
+{
+	"Current position saved"
+	{
+		"en"		"{green}[Zm-Teleport]{default} Current position saved."
+	}
+
+	"Plugin Disabled"
+	{
+		"en"		"{green}[Zm-Teleport]{default} Plugin Disabled."
+	}
+
+	"No admin command"
+	{
+		"en"		"{green}[Zm-Teleport]{default} This feature is reserved for admins only."
+	}
+
+	"Not On Ground"
+	{
+		"en"		"{green}[Zm-Teleport]{default} There is no location to save!"
+	}
+
+	"Please save a location first"
+	{
+		"en"		"{green}[Zm-Teleport]{default} Please save a location first."
+	}
+
+	"Teleported all players"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport]{default} (ADMIN) {red}{1}{default} teleported all players."
+	}
+
+	"Teleported all Cts"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport]{default} (ADMIN) {red}{1}{default} teleported all Cts."
+	}
+
+	"Teleported all Ts"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport]{default} (ADMIN) {red}{1}{default} teleported all Ts."
+	}
+
+	"teleported himself herself"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport]{default} (ADMIN) {red}{1}{default} teleported himself/herself."
+	}
+
+	"Admin teleported player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"		"{green}[Zm-Teleport]{default} (ADMIN) {red}{1}{default} teleported {red}{2}{default}."
+	}
+
+	"Couldn t find any player named disconnected"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport]{default} Couldn't find any player named {red}{1}{default} (disconnected?)."
+	}
+
+	"You re not alive in-game"
+	{
+		"en"		"{green}[Zm-Teleport]{default} You're not alive/in-game."
+	}
+
+	"Player is not alive in-game"
+	{
+		"#format"		"{1:s}"
+		"en"		"{green}[Zm-Teleport] {red}{1}{default} is not alive/in-game."
+	}
+
+	"No matching players found"
+	{
+		"en"		"{green}[Zm-Teleport]{default} No matching players found."
+	}
+
+	"No zombie players save"
+	{
+		"en"		"{green}[Zm-Teleport]{default} And you need to be (Zombie) to save your location!"
+	}
+
+	"No zombie players teleport"
+	{
+		"en"		"{green}[Zm-Teleport]{default} And you need to be (Zombie) to teleport!"
+	}
+
+	"Admin Disabled"
+	{
+		"en"		"{green}[Zm-Teleport]{default} Admin Disabled!"
+	}
+
+	"Teleport Player"
+	{
+		"en"		"{green}[Zm-Teleport]{default} You have been teleported and your location deleted!"
+	}
+}
