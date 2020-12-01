@@ -20,9 +20,9 @@
 
 ### Server Commands
 
-* sm_savetele - Zombies saves the current location for teleport commands.
-* sm_stele - Teleporte Player Zombies
-* Admin - sm_stele - Teleporte players or @ct , @t ,@all
+* sm_saveloc - Zombies saves the current location for teleport commands.
+* sm_tele - Teleporte Player Zombies
+* Admin - sm_tele - Teleporte players or @ct , @t ,@all
 
 ### Server ConVars
 

@@ -26,8 +26,8 @@ public OnPluginStart()
 	g_hCvar_TeleportEnabled = CreateConVar("zm_teleport_enabled", "1", "Teleport Players", 0, true, 0.0, true, 1.0);
 	g_hCvar_AdminEnabled = CreateConVar("zm_teleport_admin_enabled", "1", "Admin Teleport Players", 0, true, 0.0, true, 1.0);
 
-	RegConsoleCmd("sm_savetele", SaveLocation, "Saves the current location for teleport commands");
-	RegConsoleCmd("sm_stele", Teleport, "sm_teleport <#id|name>");
+	RegConsoleCmd("sm_saveloc", SaveLocation, "Saves the current location for teleport commands");
+	RegConsoleCmd("sm_tele", Teleport, "sm_teleport <#id|name>");
 	
 	b_Teleport_Enabled = GetConVarBool(g_hCvar_TeleportEnabled);
 	b_Admin_Enabled = GetConVarBool(g_hCvar_AdminEnabled);
